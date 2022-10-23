@@ -1,2 +1,2 @@
-### Student-Management-System
-###### Built  using spring boot, spring data JPA, MySQL and more:
+### Student Management System
+#### Built using Spring boot, Spring data JPA, MySQL & more
